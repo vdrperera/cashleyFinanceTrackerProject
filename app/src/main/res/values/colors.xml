@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#3B1E54</color> <!-- Updated -->
+    <color name="white">#EEEEEE</color> <!-- Updated -->
+
+    <color name="background_primary">#EEEEEE</color> <!-- Updated -->
+    <color name="background_secondary">#D4BEE4</color> <!-- Updated -->
+    <color name="accent_primary">#9B7EBD</color> <!-- Updated -->
+    <color name="accent_secondary">#3B1E54</color> <!-- Updated -->
+
+    <!-- Additional Shades -->
+    <color name="accent_primary_light">#9B7EBD</color> <!-- Updated -->
+    <color name="accent_secondary_light">#3B1E54</color> <!-- Updated -->
+    <color name="background_secondary_light">#D4BEE4</color> <!-- Updated -->
+    <color name="text_primary">#3B1E54</color> <!-- Updated -->
+    <color name="text_secondary">#9B7EBD</color> <!-- Updated -->
+    <color name="error_color">#FF5252</color> <!-- No change -->
+</resources>
